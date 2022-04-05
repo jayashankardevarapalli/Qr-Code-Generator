@@ -27,7 +27,7 @@ python3 main.py
 ![Useage](https://github.com/jayashankardevarapalli/Qr-Code-Generator/blob/main/Screenshot/S1.png)
 
 
-## Authors
+## Author
 
 - [@MrJayashankar](https://twitter.com/MrJayashankar)
 
