@@ -24,7 +24,7 @@ python3 main.py
 
 ## Screenshots
 
-![Useage](Screenshots/s1.png)
+![Useage](/Screenshots/s1.png)
 
 
 ## Authors
