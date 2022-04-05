@@ -24,7 +24,7 @@ python3 main.py
 
 ## Screenshots
 
-![Useage](/Screenshot/s1.png)
+![Useage](https://github.com/jayashankardevarapalli/Qr-Code-Generator/blob/main/Screenshot/S1.png)
 
 
 ## Authors
